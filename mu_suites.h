@@ -1,0 +1,63 @@
+#ifndef _MU_SUITES_H_
+#define _MU_SUITES_H_
+
+char* list_suites();
+char* graph_suites();
+char* math_suites();
+char* edt_suites();
+char* cornerdetector_suites();
+char* image_suites();
+char* scene_builder_suites();
+char* videocache_suites();
+char* utf_suites();
+char* storagepool_suites();
+char* binarytree_suites();
+char* txttextureatlas_suites();
+char* txtfont_suites();
+char* graphic_suites();
+char* array_suites();
+char* topo_suites();
+char* recognition_suites();
+char* desctable_suites();
+char* comic_subframe_detector_suites();
+char* thinning_suites();
+char* edgedetector_suites();
+char* seed_region_growing_suites();
+char* comic_suites();
+char* panellogparser_suites();
+char* comicsubframe_suites();
+char* project_suites();
+char* comicmeta_suites();
+char* matrix_suites();
+char* gdi_suites();
+char* myudatabase_suites ();
+char* asynchronous_process_suites();
+char* json_suites();
+char* myslogdump_suites();
+char* table_mycuser_suites();
+char* table_mycoperationrecords_suites();
+char* table_mycoperationlog_suites();
+char* activecontour_suites();
+char* hash_suites();
+char* guibase_suites ();
+char* freetype_suites ();
+char* objparser_suites ();
+char* meshutil_suites ();
+char* highway_suites ();
+char* types_suites ();
+char* sort_suites ();
+char* terrain_suites ();
+char* geometry_suites ();
+char* bin_packing_suites();
+char* tree_suites ();
+char* post_base_suites ();
+char* post_empty_suites ();
+char* post_output_suites ();
+char* post_alpha_over_suites ();
+char* effect_alpha_over_suites ();
+char* sgr_core_nodes_suites ();
+char* sgr_nodes_3d_suites ();
+char* sgr_vbo_mesh_suites ();
+char* gridmap_suites ();
+
+#endif /*_MU_SUITES_H_*/
